@@ -8,10 +8,10 @@ python-dotenv
 requests
 
 #Consumer
-kafka-python
 boto3
 fastparquet
 pandas
+confluent-kafka
 
 #dbt
 dbt-snowflake
